@@ -1,0 +1,15 @@
+{
+    "app_name":"XYZ ಸ್ಟೋರ್",
+    "details":"ವಿವರಗಳು",
+    "select_size":"ಆಯ್ಕೆ ಗಾತ್ರ",
+    "add_to_cart":"ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸು",
+    "go_to_cart":"ಕಾರ್ಟ್‌ಗೆ ಹೋಗು",
+    "remove_all_products":"ಎಲ್ಲಾ ಉತ್ಪನ್ನಗಳನ್ನು ತೆಗೆದುಹಾಕಿ",
+    "total_price":"ಒಟ್ಟು ಬೆಲೆe",
+    "proceed_checkout":"ಚೆಕ್‌ಔಟ್‌ಗೆ ಮುಂದುವರಿಯಿರಿ",
+    "dark_theme_toggle":"ಡಾರ್ಕ್ ಥೀಮ್ ಟಾಗಲ್",
+    "my_orders":"ನನ್ನ ಆದೇಶಗಳು",
+    "address_book":"ವಿಳಾಸ ಪುಸ್ತಕ",
+    "select_language":"ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "log_out":"ಲಾಗ್ ಔಟ್"
+}

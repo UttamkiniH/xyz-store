@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/uttamkinih/Desktop/Flutter/Flutter Apps/xyz_store/ios/build/Debug-iphonesimulator/FirebaseCoreInternal/FirebaseCoreInternal.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/uttamkinih/Desktop/Flutter/Flutter Apps/xyz_store/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/unextended-module.modulemap",
+    }]
+  }]
+}

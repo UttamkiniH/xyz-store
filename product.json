@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Black Tshirt",
+        "category": "Tshirt",
+        "sizes": ["S","M","L"],
+        "desc": "A plain black cotton shirt from your beloved and hated uttam store",
+        "images": [
+            "imagelink1",
+            "imagelink2"
+        ],
+        "id": "7501",
+        "price": 3000,
+        "manufacturingCompanyName": "Uttamstore"
+    },
+    {
+        "name": "White Tshirt",
+        "category": "Tshirt",
+        "sizes": ["S","M","L"],
+        "desc": "A plain white cotton shirt from your beloved and hated uttam store",
+        "images": [
+            "imagelink1",
+            "imagelink2"
+        ],
+        "id": "7501",
+        "price": 3000,
+        "manufacturingCompanyName": "Uttamstore"
+    }
+]

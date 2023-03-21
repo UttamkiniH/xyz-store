@@ -1,0 +1,15 @@
+{
+    "app_name":"XYZ स्टोर",
+    "details":"विवरण",
+    "select_size":"आकार चुनें",
+    "add_to_cart":"कार्ट में जोड़ें",
+    "go_to_cart":"कार्ट पर जाएं",
+    "remove_all_products":"सभी उत्पाद हटाएं",
+    "total_price":"कुल कीमत",
+    "proceed_checkout":"चेकआउट के लिए आगे बढ़ेंt",
+    "dark_theme_toggle":"डार्क थीम टॉगल",
+    "my_orders":"मेरे आदेश",
+    "address_book":"पता पुस्तिका",
+    "select_language":"भाषा चुनें",
+    "log_out":"लॉग आउट"
+}

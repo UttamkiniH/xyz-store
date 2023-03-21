@@ -1,0 +1,15 @@
+{
+    "app_name":"XYZ स्टोर",
+    "details":"Details",
+    "select_size":"Select Size",
+    "add_to_cart":"Add to Cart",
+    "go_to_cart":"Go to Cart",
+    "remove_all_products":"Remove all products",
+    "total_price":"Total Price",
+    "proceed_checkout":"Proceed to Checkout",
+    "dark_theme_toggle":"Dark Theme Toggle",
+    "my_orders":"My Orders",
+    "address_book":"Address Book",
+    "select_language":"Select Langauage",
+    "log_out":"Log Out"
+}
